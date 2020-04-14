@@ -8,12 +8,9 @@ Below are some guidelines to help you better document and demonstrate your API.
     - [Explaining It's Usage](#explaining-its-usage)
     - [Common Heading Names](#common-heading-names)
     <!-- - [Context and Dependencies]() -->
-    - [Writing Content]()
-- [Providing Code Examples]()
-- [Advanced Usage of Your Project]()
-
-## Provide Code Examples That work
-This way users of your project can copy and paste the examples to see them working. This includes making sure code is valid and free from typos.
+    - [Writing Content](#writing-content)
+- [Providing Code Examples](#providing-code-examples)
+- [Advanced Usage of Your Project](#advanced-usage-of-your-project)
 
 ## Structuring Your Documentation
 
@@ -47,6 +44,7 @@ Try to keep your readme file concise and well structured. Use images when approp
 ## Providing Code Examples
 
 1. Provide real working examples where possible. You can do this by creating a folder called `examples` that contain different examples of your project being used with their own READMEs.
+2. Provide code examples that work. This way users of your project can copy and paste the examples to see them working. This includes making sure code is valid and free from typos.
 2. After showing how to use your library it's useful to provide an example so users of your library can see an example in context.
 3. When referencing code that relates to a specific file add a comment or title to show the name of the file
     ```js
@@ -57,7 +55,7 @@ Try to keep your readme file concise and well structured. Use images when approp
         name: config
     }
     ```
-4. If the code is only a snippet of a code from a larger context, provide some explanation to help the user and help demonstrate this using an ellipsis in comments.
+4. If the code is only a snippet of a code from a larger context, provide some explanation to help the user and help demonstrate this using an ellipsis.
     ```json
     // package.json
 
@@ -65,7 +63,7 @@ Try to keep your readme file concise and well structured. Use images when approp
         "start": "node index.js"
     },
 
-    // ...
+    ...
 
     "dependencies": {
         "react": "^5.0.0",
@@ -77,4 +75,4 @@ Try to keep your readme file concise and well structured. Use images when approp
 
 ## Advanced Usage of Your Project
 
-Poeple with different skill and knowlegde will likely be trying to use your project and not everyone may be familiar with the style of notation you are using.
+People with different skill and knowlegde will likely be trying to use your project and not everyone may be familiar with the style of notation you are using.
