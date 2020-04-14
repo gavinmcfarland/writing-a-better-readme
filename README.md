@@ -4,10 +4,10 @@
 
 Below are some guidelines to help you better document and demonstrate your API.
 
-- [Structing Your Documentation]()
-    - [Explaining It's Usage]()
-    - [Common Heading Names]()
-    - [Context and Dependencies]()
+- [Structing Your Documentation](#structing-your-documentation)
+    - [Explaining It's Usage](#explaining-its-usage)
+    - [Common Heading Names](#common-heading-names)
+    <!-- - [Context and Dependencies]() -->
     - [Writing Content]()
 - [Providing Code Examples]()
 - [Advanced Usage of Your Project]()
