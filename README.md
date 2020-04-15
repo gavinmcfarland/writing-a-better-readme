@@ -5,6 +5,7 @@
 Below are some guidelines to help you better document and demonstrate your project, library or framework.
 
 - [Structing Your Documentation](#structing-your-documentation)
+    - [What to Include in the Header](#what-to-inlcude-in-the-header)
     - [Describing Your Project](#describing-your-project)
     - [Explaining It's Usage](#explaining-its-usage)
     - [Describing the Installation](#describing-the-installation)
@@ -25,6 +26,10 @@ There are some key sections you should cover in your documentation. They are in 
 - Advanced instructions or detailed documentation on how to configure your library
 
 If your documentation is big or comlex, then consider adding a table of contents, or splitting your documnentation up.
+
+### What to Include in the Header
+
+You can include badges/shields which let users know at a glance certain information about your project. This can include, what platform it works on, what features it supports, and if it belongs to a framework.
 
 ### Describing Your Project
 
