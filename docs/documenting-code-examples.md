@@ -1,7 +1,7 @@
 # Documenting Code Examples
 
 - [General Best Practices](#general-best-practices)
-- [Advanced Usage](#advanced-usage)
+- [Advanced Usage of Your Project](#advanced-usage-of-your-project)
 
 ## General Best Practices
 
@@ -15,11 +15,11 @@ This way users of your project can copy and paste the examples to see them worki
 
 ### Include contextual examples
 
-After showing how to use your library it's useful to provide an example, so users of your library can see it in context.
+After explaining how to use your library it's useful to provide an example, so users of your library can see it in context.
 
 ### Reference filenames
 
-When referencing code that relates to a specific file add a comment or title to show the name of the file
+When referencing code that relates to a specific file add a comment or label to show the name of the file.
 
 __config.js__
 ```js
@@ -57,6 +57,6 @@ $ npm install myproject
 This makes it difficult for users to copy and paste your code.
 
 
-## Advanced Usage
+## Advanced Usage of Your Project
 
 People with different skill and knowlegde will likely be trying to use your project and not everyone may be familiar with the style of notation you are using.

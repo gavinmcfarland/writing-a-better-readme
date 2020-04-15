@@ -1,8 +1,29 @@
+## MyProject
+
+This should be a short summary what your project does.
+
+## Installation
+
+1. Setup your project and install `myproject` as a dependency.
+    ```bash
+    npm install myproject --save-dev
+    ```
+2. Import in your project
+    ```js
+    import myproject from require('myproject')
+    ```
+3. Do something with `myproject`
+    ```js
+    myproject.build()
+    ```
+
+See the [examples]() for different ways of using `myproject`.
+
 ## Configure
 
 ### Properties
 
-To customize pass an object with one or more of the following properties to `mole.config()` either programmatically or using a file named `mole.config.js`.
+To customize pass an object with one or more of the following properties to `myproject.config()` either programmatically or using a file named `myproject.config.js`.
 
 
 - #### `theme` optional
@@ -35,7 +56,7 @@ To customize pass an object with one or more of the following properties to `mol
 
 ### Methods
 
-- #### `mole.config()`
+- #### `myproject.config()`
 
     Set the configuration
 
@@ -43,7 +64,7 @@ To customize pass an object with one or more of the following properties to `mol
 
 ---
 
-- #### `mole.theme()`
+- #### `myproject.theme()`
 
     Set or update the theme data
 
@@ -51,7 +72,7 @@ To customize pass an object with one or more of the following properties to `mol
 
 ---
 
-- #### `mole.create()`
+- #### `myproject.create()`
 
     Create a model or template
 
@@ -59,12 +80,12 @@ To customize pass an object with one or more of the following properties to `mol
 
 ---
 
-- #### `mole.render()`
+- #### `myproject.render()`
 
 	Returns an array of rendered templates
 
 ---
 
-- #### `mole.build()`
+- #### `myproject.build()`
 
     Builds the output files and writes them to disk

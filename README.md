@@ -5,6 +5,7 @@
 Below are some guidelines to help you better document and demonstrate your API.
 
 - [Structing Your Documentation](#structing-your-documentation)
+    - [Describing Your Project](#describing-your-project)
     - [Explaining It's Usage](#explaining-its-usage)
     - [Common Heading Names](#common-heading-names)
     <!-- - [Context and Dependencies]() -->
@@ -22,6 +23,11 @@ There are some key areas you should cover in your documentation.
 - How to use your library or an example
 - Advanced instructions or detailed documentation on how to configure your library
 - If your documentation is particular big or comlex, then consider adding a table of contents, or splitting your documnentation up
+
+### Describing Your Project
+
+
+Provide a brief summary of what your project does and how it does it. If it's an extension of an existing ecosystem let the user know, this will help them understand how to integrate your project into theirs.
 
 ### Explaining It's Usage
 
