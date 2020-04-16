@@ -1,4 +1,4 @@
-# Guidelines for Documenting Open Source Projects
+# Writing a Better Readme File
 
 Below are guidelines to help you better document and demonstrate your repo, project, library or framework.
 
