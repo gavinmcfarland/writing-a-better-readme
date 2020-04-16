@@ -1,6 +1,6 @@
 # Writing a Better Readme
 
-Below are guidelines to help you better document and demonstrate your repo, project, library or framework.
+Below are guidelines to help you better explain, document and demonstrate your repo, project, library or framework.
 
 - [Structing Your Documentation](#structing-your-documentation)
     - [Summarise Your Project](#summarise-your-project)
