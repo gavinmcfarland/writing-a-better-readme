@@ -1,6 +1,6 @@
 # Guidelines for Documenting Open Source Projects
 
-Below are some guidelines to help you better document and demonstrate your repo, project, library or framework.
+Below are guidelines to help you better document and demonstrate your repo, project, library or framework.
 
 - [Structing Your Documentation](#structing-your-documentation)
     - [Summarising Your Project](#describing-your-project)
