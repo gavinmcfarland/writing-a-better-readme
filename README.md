@@ -3,9 +3,9 @@
 Below are guidelines to help you better document and demonstrate your repo, project, library or framework.
 
 - [Structing Your Documentation](#structing-your-documentation)
-    - [Summarising Your Project](#describing-your-project)
-    - [Explaining It's Usage](#explaining-its-usage)
-    - [Describing the Installation](#describing-the-installation)
+    - [Summarise Your Project](#summarise-your-project)
+    - [Explain It's Usage](#explain-its-usage)
+    - [Describe the Installation](#describe-the-installation)
     - [Writing Good Copy](#writing-good-copy)
     - [What to Include in the Header](#what-to-inlcude-in-the-header)
     - [Common Heading Names](#common-heading-names)
@@ -30,15 +30,15 @@ There are key sections you should cover in your documentation, but in no particu
 
 If your documentation is big or comlex, then consider adding a table of contents, or splitting your documnentation up.
 
-### Describing Your Project
+### Summarise Your Project
 
 Provide a brief summary of what your project does and how it does it. If it's an extension of an existing framework, like a plugin let the user know this, it will help them understand how to integrate your project into their own.
 
-### Explaining It's Usage
+### Explain It's Usage
 
 When explaining it's usage try to follow an example which the user can follow. If necessary use numbering or lists to show the order of which to follow the instructions.
 
-### Describing the Installation
+### Describe the Installation
 
 Try to keep the instructions for installing or setting up your project as simple and as concise as possible. Make it easy for your users to get your project up and running. If you can, it's helpful to provide a way for them to know it's working.
 
