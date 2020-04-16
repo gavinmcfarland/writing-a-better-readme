@@ -1,4 +1,4 @@
-# Writing a Better Readme File
+# Writing a Better Readme
 
 Below are guidelines to help you better document and demonstrate your repo, project, library or framework.
 
