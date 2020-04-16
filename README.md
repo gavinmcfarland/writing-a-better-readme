@@ -1,4 +1,4 @@
-# Guidelines for Documenting Repos
+# Guidelines for Documenting Open Source Projects
 
 Below are some guidelines to help you better document and demonstrate your repo, project, library or framework.
 
@@ -23,7 +23,7 @@ Below are some guidelines to help you better document and demonstrate your repo,
 There are key sections you should cover in your documentation, but in no particular order.
 
 - A description of what your library does and how
-- How to use your library or an example
+- How to use your project or an example
 - Installation instructions, or how to set up your project
 - Why your library is important or different
 - Advanced instructions on how to customize it or use it's API
