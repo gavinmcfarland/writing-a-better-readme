@@ -15,6 +15,7 @@ Below are guidelines to help you better explain, document and demonstrate your r
     - [Include Contextual Examples](#include-contextual-examples)
     - [Reference Filenames](#reference-filenames)
     - [Provide Context for Shortened Code](#provide-context-for-shortened-code)
+    - [Commenting Code](#commenting-code)
     - [Avoid Command Line Prompts](#avoid-command-line-prompts)
 - [Contributing to these guidelines]()
 
@@ -105,13 +106,26 @@ If the code is only a snippet of a code from a larger context, provide some expl
     "start": "node index.js"
 },
 
-...
+// ...
 
 "dependencies": {
     "react": "^5.0.0",
     "postcss": "^7.0.0
 }
 ```
+
+### Commenting Code
+
+Choosing the correct time to comment code within a code example is important.
+
+If you want to comment within JSON you can use the code block tag `jsonc` to let the syntax highlighter know the block is JSON with comments.
+
+    ```jsonc
+    {
+        // This json has a comment
+        "key": "value";
+    }
+    ```
 
 ### Avoid Command Line Prompts
 
