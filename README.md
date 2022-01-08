@@ -101,7 +101,7 @@ __config.js__
 
 If the code is only a snippet of a code from a larger context, provide some explanation to help the user and help demonstrate code has been shortened using an ellipsis.
 
-```json
+```jsonc
 "scripts": {
     "start": "node index.js"
 },
