@@ -110,7 +110,7 @@ If the code is only a snippet of a code from a larger context, provide some expl
 
 "dependencies": {
     "react": "^5.0.0",
-    "postcss": "^7.0.0
+    "postcss": "^7.0.0"
 }
 ```
 
